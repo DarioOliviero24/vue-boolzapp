@@ -29,11 +29,23 @@
 }
 .flex{
     display: flex;
-    align-items: center;
+    
+}
+.flex2{
+    display: flex;
+    flex-wrap: wrap;
+    
 }
 .M{
     margin-top: 5px;
     margin-left: 5px;
+}
+.M2{
+    margin-top: 20px;
+    margin-left: 15px;
+}
+.M3{
+    padding-bottom: 5px;
 }
 .Color-p{
     color: #c1c2c7;
@@ -41,10 +53,18 @@
 .Height{
    height: 50px;
 }
+.a{
+    text-decoration: none;
+    margin-left: 5px;
+}
+
 
 
 
 /*MAIN*/
+.BG-mine{
+    background-image: url(img/mine.jpg);
+}
 
 
 
