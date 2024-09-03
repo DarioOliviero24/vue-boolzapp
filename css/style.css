@@ -8,6 +8,11 @@
 .BG-body{
     background-color: #dadbd4;
 }
+/*GENERAL*/
+.SP:hover{
+    background-color: #e9ebeb;
+
+}
 /*HEADER*/
 .BG{
     background-color: #009688;
@@ -17,8 +22,25 @@
     background-color: #eaeaea;
     height: 90vh;
 }
-
-
+.avatar{
+    height: 60px;
+    width: 60px;
+    border-radius: 50%;
+}
+.flex{
+    display: flex;
+    align-items: center;
+}
+.M{
+    margin-top: 5px;
+    margin-left: 5px;
+}
+.Color-p{
+    color: #c1c2c7;
+}
+.Height{
+   height: 50px;
+}
 
 
 
