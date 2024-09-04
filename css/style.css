@@ -8,16 +8,34 @@
 .BG-body{
     background: rgb(0,150,136);
     background: linear-gradient(180deg, rgba(0,150,136,1) 20%, rgba(214,219,216,1) 20%);
+    height: 100vh;
 }
 .M{
-    margin-top: 50px;
+    margin-top: 80px;
+}
+.MH{
+    margin-top: 20px;
+    margin-left: 15px;
+
+}
+.height{
+    height: 70px;
 }
 /*GENERAL*/
 .Window{
     height: 800px;
     background-color: white;
+   
 }
-
+.img{
+    height: 60px;
+    width: 60px; 
+    border-radius: 50%;
+    display: flex;
+}
+.my-row{
+    display: flex;
+}
 
 /*HEADER*/
 .BG{
