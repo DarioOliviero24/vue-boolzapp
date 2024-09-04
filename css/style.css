@@ -18,8 +18,27 @@
     margin-left: 15px;
 
 }
+.MS{
+    margin-left: 10px;
+}
+#app{
+    padding: 0;
+}
 .height{
     height: 70px;
+}
+.height2{
+    height: 90px;
+}
+.a{
+    text-decoration: none;
+    color: grey;
+}
+.POS{
+    margin-top:2px;
+}
+.p{
+    color: grey;
 }
 /*GENERAL*/
 .Window{
@@ -36,22 +55,6 @@
 .my-row{
     display: flex;
 }
-
-/*HEADER*/
 .BG{
-    background-color: #009688;
-    height: 180px;
+    background-color: #8edafc;
 }
-
-
-
-
-/*MAIN*/
-
-
-
-
-
-
-
-/*FOOTER*/
