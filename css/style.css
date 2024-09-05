@@ -17,6 +17,9 @@
     margin-left: 5px;
     margin-right: 5px;
 }
+.MB{
+    margin-bottom: 15px;
+}
 
 #app{
     padding: 0;
@@ -67,4 +70,23 @@
     display: flex;
     justify-content: space-between;
     width: 100%;
+}
+.Colors{
+    background-color: #d3f8bb;
+}
+.Colors2{
+    background-color: whitesmoke;
+}
+.single-message-container{
+    display: flex;
+    margin-bottom: 20px;
+    border-radius: 10px;
+    max-width: 25%;
+}
+.single-message-container.sent{
+    justify-content: flex-end;
+    
+}
+.single-message-container.riceved{
+    justify-content: flex-start;
 }
