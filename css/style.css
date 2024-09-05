@@ -13,7 +13,10 @@
 .M{
     margin-top: 45px;
 }
-
+.MM{
+    margin-left: 5px;
+    margin-right: 5px;
+}
 
 #app{
     padding: 0;
@@ -45,7 +48,7 @@
     height: 60px;
     width: 60px; 
     border-radius: 50%;
-    display: flex;
+  
 }
 .my-row{
     display: flex;
@@ -53,12 +56,15 @@
     
 
 }
-.flex{
-    display: flex;
-}
 .BG{
     background-color: #8edafc;
 }
 .Back{
     background-image: url(../img/mine.jpg);
+    height: 727px;
+}
+.flex{
+    display: flex;
+    justify-content: space-between;
+    width: 100%;
 }
