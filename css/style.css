@@ -11,16 +11,10 @@
     height: 100vh;
 }
 .M{
-    margin-top: 80px;
+    margin-top: 45px;
 }
-.MH{
-    margin-top: 20px;
-    margin-left: 15px;
 
-}
-.MS{
-    margin-left: 10px;
-}
+
 #app{
     padding: 0;
 }
@@ -30,13 +24,14 @@
 .height2{
     height: 90px;
 }
+.height3{
+    height: 38px;
+}
 .a{
     text-decoration: none;
     color: grey;
 }
-.POS{
-    margin-top:2px;
-}
+
 .p{
     color: grey;
 }
@@ -54,7 +49,16 @@
 }
 .my-row{
     display: flex;
+    align-items: center;
+    
+
+}
+.flex{
+    display: flex;
 }
 .BG{
     background-color: #8edafc;
+}
+.Back{
+    background-image: url(../img/mine.jpg);
 }
