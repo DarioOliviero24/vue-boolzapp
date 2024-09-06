@@ -37,6 +37,10 @@
     text-decoration: none;
     color: grey;
 }
+.aa{
+    text-decoration: none;
+    color: black;
+}
 
 .p{
     color: grey;
@@ -82,11 +86,4 @@
     margin-bottom: 20px;
     border-radius: 10px;
     max-width: 25%;
-}
-.single-message-container.sent{
-    justify-content: flex-end;
-    
-}
-.single-message-container.riceved{
-    justify-content: flex-start;
 }
